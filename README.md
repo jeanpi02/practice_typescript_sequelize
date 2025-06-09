@@ -35,7 +35,7 @@ src/
 
 1. Clonar el repositorio:
 ```bash
-git clone 
+git clone https://github.com/jeanpi02/practice_typescript_sequelize.git
 cd practice_typescript_sequelize
 ```
 
