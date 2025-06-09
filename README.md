@@ -98,10 +98,6 @@ npm run dev
 ## Scripts Disponibles
 
 - `npm run dev`: Inicia el servidor en modo desarrollo
-- `npm run build`: Compila el proyecto
-- `npm start`: Inicia el servidor en modo producción
-- `npm run lint`: Ejecuta el linter
-- `npm test`: Ejecuta las pruebas
 
 ## Características de Seguridad
 
